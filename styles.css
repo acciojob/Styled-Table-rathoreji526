@@ -1,6 +1,6 @@
 table {
     border: 1px solid black;
-    border-collapse: collapse;   /* MOST IMPORTANT */
+    border-collapse: collapse;   
     width: 100%;
 }
 
@@ -9,7 +9,7 @@ thead {
 }
 
 th, td {
-    border: 1px solid black;     /* column borders */
+    border: 1px solid black;   
     padding: 8px;
     text-align: center;
 }
